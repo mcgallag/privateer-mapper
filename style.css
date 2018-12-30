@@ -1,0 +1,17 @@
+form#ui {
+  text-align: center;
+}
+select#begin,
+select#end {
+  font-size: 24pt;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 40%;
+}
+input#output {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18pt;
+  text-align: center;
+  width: 90%;
+}

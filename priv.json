@@ -1,0 +1,680 @@
+{
+  "systems": [
+    {
+      "name": "17-AR",
+      "children": [],
+      "neighbors": [
+        "New Caledonia",
+        "Telar"
+      ]
+    },
+    {
+      "name": "41-GS",
+      "children": [],
+      "neighbors": [
+        "Surtur"
+      ]
+    },
+    {
+      "name": "44-P-1M",
+      "children": [],
+      "neighbors": [
+        "New Constantinople",
+        "Rikel"
+      ]
+    },
+    {
+      "name": "119CE",
+      "children": [],
+      "neighbors": [
+        "Padre",
+        "Junction",
+        "XXN-1927",
+        "Pentonville"
+      ]
+    },
+    {
+      "name": "Aldebran",
+      "children": [
+        "Matahari"
+      ],
+      "neighbors": [
+        "New Constantinople",
+        "Hind's Variable North"
+      ]
+    },
+    {
+      "name": "Auriga",
+      "children": [
+        "Elysia",
+        "Beaconsfield"
+      ],
+      "neighbors": [
+        "Newcastle"
+      ]
+    },
+    {
+      "name": "Beta",
+      "children": [],
+      "neighbors": [
+        "Gamma",
+        "Delta"
+      ]
+    },
+    {
+      "name": "Blockade Point Alpha",
+      "children": [],
+      "neighbors": [
+        "Ragnarok",
+        "Tr'Pakh"
+      ]
+    },
+    {
+      "name": "Blockade Point Charlie",
+      "children": [],
+      "neighbors": [
+        "Surtur",
+        "Hyades"
+      ]
+    },
+    {
+      "name": "Blockade Point Tango",
+      "children": [],
+      "neighbors": [
+        "Lisacc",
+        "Nitir",
+        "Mah'Rahn"
+      ]
+    },
+    {
+      "name": "Capella",
+      "children": [
+        "Drake"
+      ],
+      "neighbors": [
+        "Crab-12",
+        "Nexus",
+        "Sherwood",
+        "Famine"
+      ]
+    },
+    {
+      "name": "Castor",
+      "children": [
+        "Romulus"
+      ],
+      "neighbors": [
+        "Junction"
+      ]
+    },
+    {
+      "name": "CMF-A",
+      "children": [],
+      "neighbors": [
+        "Tingerhoff",
+        "Nitir"
+      ]
+    },
+    {
+      "name": "CM-N1054",
+      "children": [],
+      "neighbors": [
+        "Pyrenees"
+      ]
+    },
+    {
+      "name": "Crab-12",
+      "children": [],
+      "neighbors": [
+        "New Caledonia",
+        "Capella"
+      ]
+    },
+    {
+      "name": "Death",
+      "children": [],
+      "neighbors": [
+        "Pestilence",
+        "Famine"
+      ]
+    },
+    {
+      "name": "Delta",
+      "children": [],
+      "neighbors": [
+        "Rygannon",
+        "Beta"
+      ]
+    },
+    {
+      "name": "Delta Prime",
+      "children": [
+        "(Derelict)"
+      ],
+      "neighbors": [
+        "Gamma"
+      ]
+    },
+    {
+      "name": "DN-N1912",
+      "children": [
+        "N1912-1"
+      ],
+      "neighbors": [
+        "Hind's Variable North"
+      ]
+    },
+    {
+      "name": "Famine",
+      "children": [],
+      "neighbors": [
+        "Death",
+        "Capella",
+        "Sherwood"
+      ]
+    },
+    {
+      "name": "Freyja",
+      "children": [],
+      "neighbors": [
+        "Regallis",
+        "Pyrenees"
+      ]
+    },
+    {
+      "name": "Gamma",
+      "children": [],
+      "neighbors": [
+        "Beta",
+        "Delta Prime"
+      ]
+    },
+    {
+      "name": "Hind's Variable North",
+      "children": [
+        "Oresville",
+        "Meadow"
+      ],
+      "neighbors": [
+        "DN-N1912",
+        "Aldebran"
+      ]
+    },
+    {
+      "name": "Hyades",
+      "children": [
+        "Charon"
+      ],
+      "neighbors": [
+        "Blockade Point Charlie",
+        "Sumn-Kp'ta"
+      ]
+    },
+    {
+      "name": "J900",
+      "children": [],
+      "neighbors": [
+        "Junction",
+        "Telar"
+      ]
+    },
+    {
+      "name": "Junction",
+      "children": [
+        "Victoria",
+        "Speke",
+        "Burton"
+      ],
+      "neighbors": [
+        "Pender's Star",
+        "119CE",
+        "Nexus",
+        "J900",
+        "New Constantinople",
+        "Castor"
+      ]
+    },
+    {
+      "name": "KM-252",
+      "children": [
+        "Smallville"
+      ],
+      "neighbors": [
+        "Nexus"
+      ]
+    },
+    {
+      "name": "Lisacc",
+      "children": [
+        "Lisacc"
+      ],
+      "neighbors": [
+        "Blockade Point Tango"
+      ]
+    },
+    {
+      "name": "Mah'Rahn",
+      "children": [],
+      "neighbors": [
+        "Blockade Point Tango"
+      ]
+    },
+    {
+      "name": "Manchester",
+      "children": [
+        "Wickerton",
+        "Thisbury"
+      ],
+      "neighbors": [
+        "New Detroit"
+      ]
+    },
+    {
+      "name": "Metsor",
+      "children": [],
+      "neighbors": [
+        "XXN-1927",
+        "Newcastle"
+      ]
+    },
+    {
+      "name": "Midgard",
+      "children": [
+        "Heimdel"
+      ],
+      "neighbors": [
+        "Perry",
+        "Rikel"
+      ]
+    },
+    {
+      "name": "ND-57",
+      "children": [
+        "New Reno"
+      ],
+      "neighbors": [
+        "New Detroit"
+      ]
+    },
+    {
+      "name": "New Caledonia",
+      "children": [
+        "Edinburgh",
+        "Glasgow"
+      ],
+      "neighbors": [
+        "Prasepe",
+        "17-AR",
+        "Sherwood",
+        "Crab-12"
+      ]
+    },
+    {
+      "name": "Newcastle",
+      "children": [
+        "Liverpool"
+      ],
+      "neighbors": [
+        "Metsor",
+        "Auriga",
+        "Perry"
+      ]
+    },
+    {
+      "name": "New Constantinople",
+      "children": [
+        "Edom",
+        "New Constantinople"
+      ],
+      "neighbors": [
+        "Varnus",
+        "New Detroit",
+        "44-P-1M",
+        "Junction",
+        "XXN-1927",
+        "Newcastle",
+        "Aldebran"
+      ]
+    },
+    {
+      "name": "New Detroit",
+      "children": [
+        "New Detroit"
+      ],
+      "neighbors": [
+        "Saxtogue",
+        "Raxis",
+        "Manchester",
+        "XXN-1927",
+        "New Constantinople",
+        "Perry",
+        "ND-57",
+        "Rikel"
+      ]
+    },
+    {
+      "name": "Nexus",
+      "children": [
+        "Macabee"
+      ],
+      "neighbors": [
+        "Junction",
+        "Tingerhoff",
+        "KM-252",
+        "Capella"
+      ]
+    },
+    {
+      "name": "Nitir",
+      "children": [
+        "Nitir"
+      ],
+      "neighbors": [
+        "Perry",
+        "CMF-A",
+        "Blockade Point Tango"
+      ]
+    },
+    {
+      "name": "Oxford",
+      "children": [
+        "Oxford"
+      ],
+      "neighbors": [
+        "Saxtogue",
+        "XXN-1927",
+        "Shangri La"
+      ]
+    },
+    {
+      "name": "Padre",
+      "children": [
+        "Magdaline"
+      ],
+      "neighbors": [
+        "119CE"
+      ]
+    },
+    {
+      "name": "Palan",
+      "children": [
+        "Palan",
+        "Basra"
+      ],
+      "neighbors": [
+        "Xytani",
+        "Tingerhoff"
+      ]
+    },
+    {
+      "name": "Pender's Star",
+      "children": [],
+      "neighbors": [
+        "Troy",
+        "Junction"
+      ]
+    },
+    {
+      "name": "Pentonville",
+      "children": [
+        "Oakham"
+      ],
+      "neighbors": [
+        "119CE"
+      ]
+    },
+    {
+      "name": "Perry",
+      "children": [
+        "Perry Naval Base",
+        "Anapolis"
+      ],
+      "neighbors": [
+        "Ragnarok",
+        "Tingerhoff",
+        "Nitir",
+        "Surtur",
+        "Midgard",
+        "New Detroit",
+        "Newcastle"
+      ]
+    },
+    {
+      "name": "Pestilence",
+      "children": [],
+      "neighbors": [
+        "Death",
+        "War"
+      ]
+    },
+    {
+      "name": "Pollux",
+      "children": [
+        "Remus"
+      ],
+      "neighbors": [
+        "Sherwood"
+      ]
+    },
+    {
+      "name": "Prasepe",
+      "children": [
+        "Saratov"
+      ],
+      "neighbors": [
+        "New Caledonia"
+      ]
+    },
+    {
+      "name": "Pyrenees",
+      "children": [
+        "Basque",
+        "New Iberia"
+      ],
+      "neighbors": [
+        "Freyja",
+        "Troy",
+        "CM-N1054"
+      ]
+    },
+    {
+      "name": "Ragnarok",
+      "children": [
+        "Mjolnar"
+      ],
+      "neighbors": [
+        "Blockade Point Alpha",
+        "Perry"
+      ]
+    },
+    {
+      "name": "Raxis",
+      "children": [
+        "Trinsic",
+        "Gracchus"
+      ],
+      "neighbors": [
+        "New Detroit"
+      ]
+    },
+    {
+      "name": "Regallis",
+      "children": [
+        "Kroneker"
+      ],
+      "neighbors": [
+        "Troy",
+        "Freyja",
+        "Sherwood"
+      ]
+    },
+    {
+      "name": "Rikel",
+      "children": [
+        "Vishnu",
+        "Siva"
+      ],
+      "neighbors": [
+        "New Detroit",
+        "Midgard",
+        "44-P-1M"
+      ]
+    },
+    {
+      "name": "Rygannon",
+      "children": [
+        "Rygannon"
+      ],
+      "neighbors": [
+        "Delta",
+        "Xytani"
+      ]
+    },
+    {
+      "name": "Saxtogue",
+      "children": [
+        "Olympus"
+      ],
+      "neighbors": [
+        "New Detroit",
+        "Oxford"
+      ]
+    },
+    {
+      "name": "Shangri La",
+      "children": [
+        "Erewhon"
+      ],
+      "neighbors": [
+        "Oxford"
+      ]
+    },
+    {
+      "name": "Sherwood",
+      "children": [
+        "Tuck's"
+      ],
+      "neighbors": [
+        "New Caledonia",
+        "Regallis",
+        "Famine",
+        "Capella",
+        "Pollux"
+      ]
+    },
+    {
+      "name": "Sumn-Kp'ta",
+      "children": [],
+      "neighbors": [
+        "Tr'Pakh",
+        "Hyades"
+      ]
+    },
+    {
+      "name": "Surtur",
+      "children": [
+        "Surtur"
+      ],
+      "neighbors": [
+        "Blockade Point Charlie",
+        "41-GS",
+        "Perry"
+      ]
+    },
+    {
+      "name": "Telar",
+      "children": [
+        "Megiddo"
+      ],
+      "neighbors": [
+        "17-AR",
+        "Valhalla",
+        "J900"
+      ]
+    },
+    {
+      "name": "Tingerhoff",
+      "children": [
+        "Munchen",
+        "Bodensee"
+      ],
+      "neighbors": [
+        "CMF-A",
+        "Palan",
+        "Nexus",
+        "Perry"
+      ]
+    },
+    {
+      "name": "Troy",
+      "children": [
+        "Helen",
+        "Achilles",
+        "Hector"
+      ],
+      "neighbors": [
+        "Pyrenees",
+        "War",
+        "Regallis",
+        "Pender's Star"
+      ]
+    },
+    {
+      "name": "Tr'Pakh",
+      "children": [],
+      "neighbors": [
+        "Sumn-Kp'ta",
+        "Blockade Point Alpha"
+      ]
+    },
+    {
+      "name": "Valhalla",
+      "children": [
+        "Valkyrie"
+      ],
+      "neighbors": [
+        "Telar"
+      ]
+    },
+    {
+      "name": "Varnus",
+      "children": [
+        "Rilke",
+        "Rodin"
+      ],
+      "neighbors": [
+        "New Constantinople"
+      ]
+    },
+    {
+      "name": "War",
+      "children": [],
+      "neighbors": [
+        "Troy",
+        "Pestilence"
+      ]
+    },
+    {
+      "name": "XXN-1927",
+      "children": [
+        "Jolson",
+        "Joplin"
+      ],
+      "neighbors": [
+        "New Detroit",
+        "New Constantinople",
+        "Oxford",
+        "Metsor",
+        "119CE"
+      ]
+    },
+    {
+      "name": "Xytani",
+      "children": [],
+      "neighbors": [
+        "Palan",
+        "Rygannon"
+      ]
+    }
+  ]
+}

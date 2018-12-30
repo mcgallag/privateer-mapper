@@ -1,3 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
 form#ui {
   text-align: center;
 }
@@ -14,4 +21,7 @@ input#output {
   font-size: 18pt;
   text-align: center;
   width: 90%;
+}
+body {
+  font-size: 20pt;
 }

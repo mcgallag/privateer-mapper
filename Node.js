@@ -29,4 +29,8 @@ class MikeNode {
     s += this.value;
     return s;
   }
+
+  draw(r) {
+    ellipse(0, 0, r);
+  }
 }

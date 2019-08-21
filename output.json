@@ -77,8 +77,8 @@
       "group": 6
     },
     {
-      “id”: “Eden”,
-      “group”: 5
+      "id": "Eden",
+      "group": 5
     },
     {
       "id": "Famine",
@@ -684,14 +684,14 @@
       "value": 1
     },
     {
-      “source”: “Eden”,
-      “target”: “Valhalla”,
-      “value”: 1
+      "source": "Eden",
+      "target": "Valhalla",
+      "value": 1
     },
     {
-      “source”: “Eden”,
-      “target”: “Rikel”,
-      “value”: 1
+      "source": "Eden",
+      "target": "Rikel",
+      "value": 1
     },
     {
       "source": "Telar",
